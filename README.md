@@ -1,4 +1,4 @@
-# <span style="color: #F19CBB">algoStart</span>
+# <span style="color: red">algoStart</span>
 
 <span style="color: #F19CBB">Расширение для быстрого создания и подготовки файлов для олимпиад и лабораторных работ по предмету **"Алгоритмы и структуры данных"**</span>
 
